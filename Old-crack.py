@@ -52,8 +52,8 @@ def notice():
 
 	runtxt("\n\033[0;91m🧞‍♀️YOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m 🔇 SENT THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN🧞‍♀️ MESSENGER🔰🥰https://m.me/Ahsam")
-	subprocess.check_output(["am", "start", "https://m.me/Ahsam"])
+	runtxt("\033[0;92m ADMIN🧞‍♀️ MESSENGER🔰🥰https://m.me/AHSAM.FATHER.OF.HETARS")
+	subprocess.check_output(["am", "start", "https://m.me/AHSAM.FATHER.OF.HETARS"])
 
 def irfan():
 	
